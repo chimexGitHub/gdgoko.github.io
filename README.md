@@ -2,6 +2,10 @@
 
 A boilerplate for the GDG Oko website, forum and blog
 
+# Site url
+
+https://www.gdgoko.com.ng
+
 
 # url
 
